@@ -1,0 +1,65 @@
+Python 25-04-25 
+******************************************************************************************************************************************************************************************************
+************************* Configuración inicial *************************
+
+Instalar python (Linux ubuntu - Consola)
+- Verificar la versión : python3 --version
+- Actualizar paquetes : sudo apt update | sudo apt upgrade
+- Instalar dependencias : sudo apt install -y software-properties-common
+- Agregar el repositorio más reciente : sudo add-apt-repository ppa:deadsnakes/ppa | sudo apt update
+- Versión que quieres instalar : sudo apt install python3.12
+- Verificar la nueva versión : python3.12 --version
+
+- Re-configurar python3 : sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 1 | sudo update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.12 2
+| sudo update-alternatives --config python3 y seleccionas la versión más actual o puedes dejarlo automático
+
+************************* Visual Studio Code *************************
+
+- Instalar extensiones
+- Python: Intellisense Microsoft
+
+******************************************************************************************************************************************************************************************************
+- Creado en 1991 por Guido Van Rossum
+- Lenguaje interpretado
+- Multiplataforma
+- multi paradigma (puedes hacer uso de POO, etc.)
+- tipado dinámico (las variables pueden almacenar cualquie tipo de dato)
+
+*********** Variables y tipos de datos ***********
+
+- Dato: es una de las cosas básicas que utiliza un programa como una letra o un número
+- Variable: es un nombre que se refiere a un dato
+- Reglas de las variables: No pueden iniciar con un número, no pueden llevar caracteres especiales, no pueden llevar el nombre de palabras reservadas
+- Tipos de datos: Entero, flotante, cadenas de texto
+
+Nota: comentar en python es utilizando (""")(''')al inicio y final y (#) es para una sola línea
+******************************************************************************************************************************************************************************************************
+
+Todo que tenga que ver con la cultura general sobre la programación poner en este apartado
+
+***************************************************
+*************** Información general ***************
+***************************************************
+
+"Convenciones de nombres en programación"
+
+- Los nombres provienen de una metáfora visual basada en como se ve el texto simulando la joroba de un camello esto aplica para camelCase y PascalCase
+- El texto se escribe como una sola palabra, pero con “bultos” en mayúscula que separan cada palabra interior.
+- Al leerlo, esas subidas y bajadas visuales hacen que parezca el lomo de un camello.
+- La convención comenzó a popularizarse en lenguajes como Java y Smalltalk en los 80s y 90s.
+- Se eligió para mejorar la legibilidad sin necesidad de espacios ni guiones bajos, que a veces no eran válidos en nombres de variables.
+
+- camelCase esta se compone de una primer palabra en minúscula seguida de una en Mayúscula sin espacios 
+- Snake_case todas las palabras van separadas por guión bajo reemplazando a los espacios
+- PascalCase es parecido a camelCase solo que la primer palabra también comienza con mayúscula
+
+"Bug"
+- El término "bug" (bicho en inglés) para referirse a un error en un programa tiene una historia curiosa y bastante famosa en el mundo de la informática 
+- En 1947, cuando la computación era muy joven, los ingenieros que trabajaban con el Harvard Mark II (una de las primeras computadoras electromecánicas) descubrieron que una polilla real 
+había quedado atrapada dentro del hardware, causando un mal funcionamiento.
+
+- La ingeniera Grace Hopper y su equipo retiraron la polilla, la pegaron en el cuaderno de bitácora del equipo y escribieron: "First actual case of bug being found." (Primer caso real de encontrar un “bug”)
+- La palabra "bug" ya se usaba en ingeniería desde el siglo XIX para referirse a fallos mecánicos o eléctricos misteriosos.
+- Incluso Thomas Edison mencionó “bugs” en sus diarios refiriéndose a fallos técnicos.
+******************************************************************************************************************************************************************************************************
+
