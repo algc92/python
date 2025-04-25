@@ -61,5 +61,19 @@ había quedado atrapada dentro del hardware, causando un mal funcionamiento.
 - La ingeniera Grace Hopper y su equipo retiraron la polilla, la pegaron en el cuaderno de bitácora del equipo y escribieron: "First actual case of bug being found." (Primer caso real de encontrar un “bug”)
 - La palabra "bug" ya se usaba en ingeniería desde el siglo XIX para referirse a fallos mecánicos o eléctricos misteriosos.
 - Incluso Thomas Edison mencionó “bugs” en sus diarios refiriéndose a fallos técnicos.
+
+"Partes de una división"
+ 
+divisor 2/24 dividendo / 12 cociente y resto 0
+
+% módulo evalue el resto
+
 ******************************************************************************************************************************************************************************************************
 
+Operadores aritméticos y jerarquía
+
+- Son símbolos especiales que representan cálculos suma, resta, multiplicación, división
+
+orden para jerarquía de operaciones: parentesis | exponenciación | multiplicación y división | suma y resta.
+
+******************************************************************************************************************************************************************************************************
