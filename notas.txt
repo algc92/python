@@ -77,3 +77,13 @@ Operadores aritméticos y jerarquía
 orden para jerarquía de operaciones: parentesis | exponenciación | multiplicación y división | suma y resta.
 
 ******************************************************************************************************************************************************************************************************
+
+Cadenas de texto : es una secuencia de caracteres
+
+substract o debanado de cadenas:
+0 1 2 3 4 5 6 7 8 9 10 11 12 13
+" M o n t y   P y t  h  o  n  "
+
+[0:5] = "Monty"
+[ :3] = "Mon"
+[3: ] = "hon" de esta forma lo realiza alrevés
