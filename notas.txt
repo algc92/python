@@ -87,3 +87,4 @@ substract o debanado de cadenas:
 [0:5] = "Monty"
 [ :3] = "Mon"
 [3: ] = "hon" de esta forma lo realiza alrevés
+
