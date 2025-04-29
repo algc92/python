@@ -87,3 +87,16 @@ substract o debanado de cadenas:
 [0:5] = "Monty"
 [ :3] = "Mon"
 [3: ] = "hon" de esta forma lo realiza alrevés
+
+*********** Operadores relacionales ***********
+== igual que
+!= diferente de 
+< menor que
+> mayor que
+<= menor igual que
+>= mayor igual que
+
+*********** Operadores lógicos ***********
+and 
+or
+not
