@@ -102,3 +102,6 @@ substract o debanado de cadenas:
 and 
 or
 not
+
+*********** Condicionales ***********
+if else
