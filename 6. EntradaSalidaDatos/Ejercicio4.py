@@ -10,4 +10,4 @@ nombre = input("Ingrese su nombre:")
 edad = int(input("Ingrese su edad:"))
 sexo = input("Ingrese su sexo:")
 
-print("Te llamas:",nombre,"\n Tu edad es:",edad,"\n Eres:",sexo)
+print("Te llamas: {} \n Tu edad es: {} \n Eres: {}".format(nombre,edad,sexo))
