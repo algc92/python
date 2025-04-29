@@ -80,6 +80,8 @@ orden para jerarquía de operaciones: parentesis | exponenciación | multiplicac
 
 Cadenas de texto : es una secuencia de caracteres
 
+len es utilizado para obtener el tamaño de una cadena.
+
 substract o debanado de cadenas:
 0 1 2 3 4 5 6 7 8 9 10 11 12 13
 " M o n t y   P y t  h  o  n  "
