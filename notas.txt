@@ -105,7 +105,3 @@ not
 
 *********** Condicionales ***********
 if else
-
-
-
-gpg --armor --export EBCDE4164C8084DE 2025-04-29
