@@ -107,6 +107,21 @@ not
 if else
 elif
 
+*********** Estructuras de datos ***********
+
+Listas, Tuplas y Diccionarios
+
+Listas: es un conjunto de datos ordenados.
+   0     1    2        3
+['Pan', 40, 35.86, 'Tortilla']
+
+Tuplas: es una secuencia de valores similar a una lista pero con valores constantes no se pueden modificar.
+    0       1      2        3
+('Jugar', 23.78, "Juan", "Tupla")
+
+Diccionarios: son colecciones que relacionan una clave y valor formato JSON
+{ "Uno": 1, "Dos": 2, "Tres": 3}
+
 ****************************************************************************************************************************************************************************************************************
 ****************************************************************************************************************************************************************************************************************
 (Integración Continua/Despliegue Continuo) - CI/CD
