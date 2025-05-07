@@ -127,3 +127,4 @@ Diccionarios: son colecciones que relacionan una clave y valor formato JSON
 (Integración Continua/Despliegue Continuo) - CI/CD
 
 GitHub usa GitHub Actions, una herramienta de automatización que ejecuta flujos de trabajo (workflows) definidos por ti en archivos YAML.
+
