@@ -5,5 +5,5 @@ abecedario = ("a","b","c","d","e","f","g","h","i","j","k","l","m","n","o","p","q
 
 letra = int(input("Ingresa el número de letra a obtener:\n"))
 
-print("La letra corresponediente es:",abecedario[letra-1])
+print("La letra correspondiente es:",abecedario[letra-1])
 
