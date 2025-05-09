@@ -129,3 +129,7 @@ Diccionarios: son colecciones que relacionan una clave y valor formato JSON
 GitHub usa GitHub Actions, una herramienta de automatización que ejecuta flujos de trabajo (workflows) definidos por ti en archivos YAML.
 
 En un diccionario toma el ultimo que le pasas, por ese motivo no se debe poner 2 claves con el mismo nombre
+
+Bucles
+
+while - for - do while

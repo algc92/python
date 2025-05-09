@@ -1,0 +1,2 @@
+lista = ["uno", "Dos", "Tres"]
+
