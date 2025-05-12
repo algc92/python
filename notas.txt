@@ -132,4 +132,13 @@ En un diccionario toma el ultimo que le pasas, por ese motivo no se debe poner 2
 
 Bucles
 
-while - for - do while
+while - for - continue y break
+
+Funciones - es una secuencia de sentencias que realizan una operación y recibe un nombre
+
+Sintaxis para definir una función y se pueden pasar parametros
+def saludo():
+    print("Hola Mundo")
+
+Sintaxis para llamar a la función
+saludo()
