@@ -148,3 +148,5 @@ Aqui recuerda que For es para recorrer listas, tuplas, arreglos, etc.
 
 El while funciona como for de otros lenguajes y no se te olvide el iterador
 
+Nota: Tener en cuenta que en el uso de funciones si se importa una libreria esta debe estar dentro de la función
+
