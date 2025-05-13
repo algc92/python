@@ -142,3 +142,9 @@ def saludo():
 
 Sintaxis para llamar a la función
 saludo()
+
+
+Aqui recuerda que For es para recorrer listas, tuplas, arreglos, etc.
+
+El while funciona como for de otros lenguajes y no se te olvide el iterador
+
