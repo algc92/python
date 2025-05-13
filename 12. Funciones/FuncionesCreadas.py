@@ -3,8 +3,8 @@ def saludo():
 
 saludo()
 
-i = 1
+def tabla7():
+    for i in range(10):
+        print("7 x {} = {}".format(i, i * 7))
 
-while i <= 10:
-    saludo()
-    i += 1
+tabla7()
