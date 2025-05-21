@@ -151,3 +151,6 @@ El while funciona como for de otros lenguajes y no se te olvide el iterador
 Nota: Tener en cuenta que en el uso de funciones si se importa una libreria esta debe estar dentro de la función
 
 dentro de una función cuando haces un return para que pueda devolverte un valor entero debes hacerlo mediante un print al llamarla
+
+POO (programación Orientada a Objetos)
+
