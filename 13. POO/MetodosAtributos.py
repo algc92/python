@@ -20,3 +20,4 @@ print(telefono.almacenamiento)
 # Aqui se esta mostrando el método y se pasa como parametro el mensaje
 print(telefono.llamar("Hola desde el método"))
 telefono.escucharMusica()
+
