@@ -153,4 +153,3 @@ Nota: Tener en cuenta que en el uso de funciones si se importa una libreria esta
 dentro de una función cuando haces un return para que pueda devolverte un valor entero debes hacerlo mediante un print al llamarla
 
 POO (programación Orientada a Objetos)
-
